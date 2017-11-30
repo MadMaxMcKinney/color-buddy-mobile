@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:/Users/maxmckinney/Dropbox/Swift/Color Buddy/Color Buddy/Assets.xcassets"
+      name = ".xcassets">
+      <Group
+         location = "group:tab-bar-palette.imageset"
+         name = "tab-bar-palette.imageset">
+         <FileRef
+            location = "group:tab-bar-palette.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:AppIcon.appiconset"
+         name = "AppIcon.appiconset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Contents.json">
+      </FileRef>
+      <Group
+         location = "group:tab-bar-generator.imageset"
+         name = "tab-bar-generator.imageset">
+         <FileRef
+            location = "group:tab-bar-generator.png">
+         </FileRef>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
